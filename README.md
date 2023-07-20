@@ -1,4 +1,4 @@
-# aivendb-2-secret
+# aiven2secret
 
 Easily retrieve your Aiven services connection details and create a Kubernetes secret resources for it.
 
