@@ -252,7 +252,7 @@
                                     </github>
                                 </release>
                                 <distributions>
-                                    <q-cli>
+                                    <aiven2secret>
                                         <type>NATIVE_IMAGE</type>
                                         <artifacts>
                                             <artifact>
@@ -268,7 +268,7 @@
                                                 <platform>osx-x86_64</platform>
                                             </artifact>
                                         </artifacts>
-                                    </q-cli>
+                                    </aiven2secret>
                                 </distributions>
                             </jreleaser>
                         </configuration>
