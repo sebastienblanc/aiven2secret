@@ -17,7 +17,7 @@ import picocli.CommandLine.Command;
 import picocli.CommandLine.Parameters;
 
 @Command(name = "aiven2secret", mixinStandardHelpOptions = true)
-public class GreetingCommand implements Runnable {
+public class ConvertCommand implements Runnable {
 
     @Location("secret.yml") 
     Template secret;

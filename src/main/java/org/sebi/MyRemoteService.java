@@ -7,9 +7,7 @@ import jakarta.ws.rs.GET;
 import jakarta.ws.rs.HeaderParam;
 import jakarta.ws.rs.Path;
 import jakarta.ws.rs.PathParam;
-import jakarta.ws.rs.QueryParam;
-import java.util.List;
-import java.util.Set;
+
 
 /**
  * To use it via injection.
